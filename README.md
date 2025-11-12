@@ -1,16 +1,18 @@
-## Hi there 👋
+# Samuel Soares: Conta 2 :wave:
 
-<!--
-**samuscadev/samuscadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  	<tr>
+		<!-- Coluna esquerda -->
+		<td width="60%" valign="center">
+			<p>
+				Bem Vindo a <b>Minha Segunda Conta</b>, eu sou <b>Samuel Soares</b> e essa é uma conta dedicada aos meus <b>✨Projetinhos Pessoais✨</b>.<br>
+				A maioria são projetos JS, e envolvem <b>Game Dev</b> (parte da programção que eu mais gosto 😉);
+      </p>
+		</td>
+		<!-- Coluna direita -->
+		<td width="40%" valign="center" align="center">
+		<img src="assets/sla.gif" alt="GIF animado" style="height:100%;width:auto;"/>
+		</td>
+	</tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
